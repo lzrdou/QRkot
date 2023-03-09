@@ -1,5 +1,5 @@
 # QRkot_spreadseets
-### Учебный проект по написанию API с использованием фреймворка FastAPI и Google Sheets API  
+### API благотворительного проекта с возможностью выгрузки статистики в гугл-таблицы. 
   
   
 #### Использованные технологии: FastAPI, SQLAlchemy, Alembic, AIOGoogle
